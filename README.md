@@ -35,11 +35,12 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 13.Test the model with new input data.
 
 ## Program:
-```python
-/*
+```
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by:Daniyel Antony Raj SD
 RegisterNumber:212224220018
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
